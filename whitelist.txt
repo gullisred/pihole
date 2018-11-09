@@ -1,13 +1,9 @@
 ##This list contains the whitelist stuff##
-
 #Commonly Whitelisted Domains
-    https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt
-    
+    https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt   
 #Commonly Whitelisted Domains (Optional)
     https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt
-    
 #Commonly Whitelisted Domains (Referral Sites)
     https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/referral-sites.txt
-    
 #DNSlock-PiHole-whitelist
     https://raw.githubusercontent.com/raghavdua1995/DNSlock-PiHole-whitelist/master/whitelist.list
